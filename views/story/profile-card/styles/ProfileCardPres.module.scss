@@ -1,46 +1,64 @@
 @use '@styles/variables.scss' as *;
 
-.profileCardContainer{
+.profileCardContainer {
   width: 100%;
   max-width: 1200px;
   position: relative;
-  margin-top: 2rem;
   box-shadow: 3px 3px 10px 1px rgba(0, 0, 0, 0.25);
-  border-radius: 8px;
-  background-color: $theme-shade-3;
+  border-radius: 16px;
+  background-color: $theme-shade-1;
+  overflow: hidden;
 }
-.cardBackGroundBox{
+
+.cardBackGroundBox {
   position: relative;
   width: 100%;
-  height: 250px;
+  aspect-ratio: 4/1;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 16px;
+  overflow: visible; 
+
+  &.hasBackground {
+    background-image:
+      linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+      var(--bg-image);
+  }
 }
-.profileImg{
-  position: relative;
-}
-.profile{
+
+.profileImg {
   position: absolute;
-  bottom: -40px;
-  left:25px;
-  background-color: #FFFFFF;
-  border-radius: 99px;
-  padding: 4px;
-  background-color: $theme-shade-3;
+  left: 25px;   
+  bottom: -40px; 
 }
-.userInfo{
-  margin-top: 20px;
+
+.mobileProfile {
+  border-radius: 50%;
+  border: 4px solid #fff;
+  background: #fff;
+  width: 80px;
+  height: 80px;
+}
+
+.userInfo {
+  margin-top: 40px;
   display: flex;
   gap: 10px;
   padding-left: 20px;
   align-items: center;
 }
-.followContainer{
+
+.followContainer {
   display: flex;
   align-items: center;
   gap: 6px;
   padding-right: 20px;
   margin-top: 15px;
 }
-.followText{
+
+.followText {
   cursor: pointer;
   @include font-base;
   font-weight: 400;
@@ -49,41 +67,39 @@
   gap: 5px;
   color: $theme-text-2;
 }
-.followNumberText{
+
+.followNumberText {
   @include font-lg;
   font-weight: 600;
   flex-direction: row;
   align-items: center;
   gap: 1px;
 }
-.userFlexBox{
+
+.userFlexBox {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 30px;
+  margin-top: 10px;
 }
-.infoContent{
+
+.infoContent {
   min-height: 150px;
   padding: 20px;
   color: gray;
   font-size: $font-xs-size;
   font-weight: $font-xs-weight;
-  line-height:$font-xs-line-height ;
+  line-height: $font-xs-line-height;
 }
-.nameText{
+
+.nameText {
   @include font-xl;
   color: $theme-text-2;
 }
-.mobileProfile{
-  border-radius: 100%;
-}
-
 
 @media (max-width: 768px) {
+  .cardBackGroundBox {
+    aspect-ratio: 1.5/1;
+  }
 
-.mobileProfile{
-  border-radius: 100%;
-  width: 60px;
-  height: 60px;
-}
 }
