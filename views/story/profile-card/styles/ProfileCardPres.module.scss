@@ -53,8 +53,8 @@
 .followContainer {
   display: flex;
   align-items: center;
-  gap: 6px;
-  padding-right: 20px;
+  gap: 15px;
+  padding-right: 30px;
   margin-top: 15px;
 }
 
@@ -64,8 +64,14 @@
   font-weight: 400;
   display: flex;
   align-items: center;
-  gap: 5px;
+  gap: 3px;
   color: $theme-text-2;
+  transition: all 0.3s ease;
+
+  &:hover {
+    color: $theme-primary;
+    transform: translateY(-2px);
+  }
 }
 
 .followNumberText {
@@ -101,5 +107,4 @@
   .cardBackGroundBox {
     aspect-ratio: 1.5/1;
   }
-
 }

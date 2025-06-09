@@ -104,7 +104,7 @@ export default function ProfileCardPres({
                 );
               }}
             >
-              팔로잉
+              팔로우
               <span className={styles.followNumberText}>
                 {followList?.totalCount ?? 0}
               </span>
