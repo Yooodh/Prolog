@@ -1,18 +1,11 @@
-<div align="center">
-
-# 📝 Prolog
-
-[![Next.js](https://img.shields.io/badge/Next.js-15.3.2-black?logo=next.js)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
-[![Prisma](https://img.shields.io/badge/Prisma-6.7.0-2D3748?logo=prisma)](https://www.prisma.io/)
-
-</div>
+# <img width="1747" height="1042" alt="prolog_title" src="https://github.com/user-attachments/assets/a9a1f5e7-aa9f-4174-b4a4-e4a97d1d867c" />
 
 > **Prolog - 기존 블로그 서비스의 불편함과 한계점을 해결하고자 개선된 모던 블로그 플랫폼** <br/>
 > 개발 기간 : 25.05.07 ~ 25.06.04
 
-### Team Prolog
-<div>
+<div align="center">
+
+ ### Team Prolog
  <table>
      <tr>
       <td align="center"><a href="https://github.com/JangIkIk?tab=repositories"><img src=https://avatars.githubusercontent.com/u/108041161?v=4 width="50px;" alt=""/><br /><sub><b>@Jangs</b></sub></a><br /></td>
