@@ -1,42 +1,42 @@
-# <img width="1747" height="1042" alt="prolog_title" src="https://github.com/user-attachments/assets/a9a1f5e7-aa9f-4174-b4a4-e4a97d1d867c" />
+
+<div align="center">
+
+### 🌿 pro로 성장하는 모든 순간의 log
+*"지식 공유의 번거로움을 덜고 개발자의 본질에 집중합니다."*
+
+**Prolog**는 **AI 기반 요약**과 **개발 최적화 UI**를 제공하는 모던 블로그 플랫폼입니다. <br/> 불필요한 과정 없이 당신의 기술 자산을 체계적으로 기록하세요.
+
+</div>
+
+#
+
+<img width="1747" height="1042" alt="prolog_title" src="https://github.com/user-attachments/assets/a9a1f5e7-aa9f-4174-b4a4-e4a97d1d867c" />
+
 
 > **Prolog - 기존 블로그 서비스의 불편함과 한계점을 해결하고자 개선된 모던 블로그 플랫폼** <br/>
 > 개발 기간 : 25.05.07 ~ 25.06.04
 
-<div align="center">
+#
 
- ### Team Prolog
- <table>
-     <tr>
-      <td align="center"><a href="https://github.com/Yooodh"><img src=https://avatars.githubusercontent.com/u/93702328?v=4 width="50px;" alt=""/><br /><sub><b>@Yo_o.</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/JangIkIk?tab=repositories"><img src=https://avatars.githubusercontent.com/u/108041161?v=4 width="50px;" alt=""/><br /><sub><b>@Jangs</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/uudeok/"><img src=https://avatars.githubusercontent.com/u/128568494?v=4 width="50px;" alt=""/><br /><sub><b>@uudeok</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/mjhn010"><img src=https://avatars.githubusercontent.com/u/120008573?v=4 width="50px;" alt=""/><br /><sub><b>@jun Y</b></sub></a><br /></td>      
-      <td align="center"><a href="https://github.com/imi21123"><img src=https://avatars.githubusercontent.com/u/91395969?v=4 width="50px;" alt=""/><br /><sub><b>@Chaeyeon Han</b></sub></a><br /></td>
-     </tr>
-      <td align="center">유대현</td>
-      <td align="center">장준익</td>
-      <td align="center">서유덕</td>   
-      <td align="center">윤준영</td>
-      <td align="center">한채연</td>
-    </tr>
- </table>
-</div>
+###  Why Prolog❓
+> "단순한 기록을 넘어 당신의 성장에 깊이를 더하는 최적의 환경을 제공합니다."
 
-## 프로젝트 소개
+* **✨ 오직 본질에만 집중하는 환경**
+  * 복잡한 설정은 덜어내고 오직 텍스트에만 집중하세요! <br/> 직관적이고 세련된 **모던 UI/UX**가 당신의 기록 과정을 즐거운 경험으로 바꿉니다.
 
-"pro로 성장하는 모든 순간의 log"
+* **🤖 AI 기반의 스마트 콘텐츠 요약**
+  * 긴 글 속에서도 핵심을 놓치지 않도록 **AI가 섹션별로 정보를 구조화**합니다. <br/> 복잡한 지식을 명확한 인사이트로 빠르게 변환하세요.
 
-지식 공유의 번거로움을 덜고 개발자의 본질에 집중합니다. <br/>
-Prolog는 AI 기반 요약과 개발 최적화 UI를 제공하는 모던 블로그 플랫폼입니다. <br/>
-불필요한 과정 없이 당신의 기술 자산을 체계적으로 기록하세요.
+* **🛡️ 멈추지 않는 기록의 연속성** 
+  * 예기치 못한 브라우저 종료에도 당황하지 마세요! <br/> **30초 단위 자동 임시 저장**이 당신의 소중한 기록을 지켜냅니다.
 
-### 핵심 가치
-- **모던한 UI/UX**: 직관적이고 아름다운 사용자 인터페이스
-- **AI 기반 요약**: OpenAI를 활용한 스마트 콘텐츠 요약
-- **자동 백업**: 서비스 지속성을 고려한 자동 임시 저장
-- **확장된 마크다운**: 풍부한 마크다운 기능 지원
-- **안전한 인증**: OAuth 2.0 기반 소셜 로그인
+* **📝 표현의 한계를 넓히는 에디터**  
+  * **실시간 미리보기**와 정교한 **코드 하이라이팅**으로 작성 효율을 높였습니다. <br/> 확장된 마크다운 기능을 통해 당신의 성장 기록을 가장 완벽한 레이아웃으로 구현하세요.
+
+* **🤝 함께 성장하는 기술 생태계** 
+  * **Google, GitHub 계정**으로 간편하게 시작하세요. <br/> **실시간 알림**과 **팔로우**로 동료와 연결되며 견고한 기술 생태계를 함께 구축합니다.
+
+<br/>
 
 ## 주요 기능
 
@@ -78,10 +78,9 @@ Prolog는 AI 기반 요약과 개발 최적화 UI를 제공하는 모던 블로�
 
 ![alarm](https://github.com/user-attachments/assets/3a2d0403-8537-494b-ba50-22301d6048cc)
 
-
 ## 기술 스택
 
-### Frontend
+### 💻 Frontend
 - **Framework**: Next.js 15.3.2 (App Router)
 - **Language**: TypeScript 5.0
 - **UI Library**: React 19.0
@@ -90,40 +89,39 @@ Prolog는 AI 기반 요약과 개발 최적화 UI를 제공하는 모던 블로�
 - **Markdown Editor**: @uiw/react-md-editor 4.0.6
 - **Icons**: @radix-ui/react-icons
 
-### Backend
+### ⚙️ Backend
 - **Runtime**: Node.js
 - **ORM**: Prisma 6.7.0
 - **Database**: PostgreSQL
 - **Authentication**: NextAuth v5 (JWT)
 - **File Storage**: AWS S3
 
-### AI & External Services
+### 🧠 AI & External Services
 - **AI**: OpenAI GPT-4o-mini
 - **Image Processing**: AWS SDK for S3
 
-### Development Tools
+### 🛠️ Development Tools
 - **Linter**: ESLint, Biome
 - **Formatter**: Prettier
 - **Package Manager**: npm
 
+<div align="center">
 
-## 주요 기능 상세
-
-### 마크다운 에디터
-- 실시간 미리보기
-- 코드 하이라이팅
-- 이미지 드래그 앤 드롭
-- 커스텀 툴바 명령어
-
-### AI 요약
-- 섹션별 자동 요약
-- JSON 형식으로 구조화된 데이터 저장
-- 500자 이상부터 사용 가능
-
-### 자동 임시 저장
-- 30초 디바운스로 자동 저장
-- 최대 10개 임시 저장 가능
-- 수정 및 삭제 지원
-
-
-
+ ## Team Prolog
+  <table>
+      <tr>
+       <td align="center"><a href="https://github.com/Yooodh"><img src=https://avatars.githubusercontent.com/u/93702328?v=4 width="50px;" alt=""/><br /><sub><b>@Yo_o.</b></sub></a><br /></td>
+       <td align="center"><a href="https://github.com/JangIkIk?tab=repositories"><img src=https://avatars.githubusercontent.com/u/108041161?v=4 width="50px;" alt=""/><br /><sub><b>@Jangs</b></sub></a><br /></td>
+       <td align="center"><a href="https://github.com/uudeok/"><img src=https://avatars.githubusercontent.com/u/128568494?v=4 width="50px;" alt=""/><br /><sub><b>@uudeok</b></sub></a><br /></td>
+       <td align="center"><a href="https://github.com/mjhn010"><img src=https://avatars.githubusercontent.com/u/120008573?v=4 width="50px;" alt=""/><br /><sub><b>@jun Y</b></sub></a><br /></td>      
+       <td align="center"><a href="https://github.com/imi21123"><img src=https://avatars.githubusercontent.com/u/91395969?v=4 width="50px;" alt=""/><br /><sub><b>@Chaeyeon Han</b></sub></a><br /></td>
+      </tr>
+       <td align="center">유대현</td>
+       <td align="center">장준익</td>
+       <td align="center">서유덕</td>   
+       <td align="center">윤준영</td>
+       <td align="center">한채연</td>
+     </tr>
+  </table>
+ 
+</div>
