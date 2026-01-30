@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ### 🌿 pro로 성장하는 모든 순간의 log
@@ -77,6 +76,21 @@
 - 구독자 대상 자동 일괄 알림 전송 시스템 제공
 
 ![alarm](https://github.com/user-attachments/assets/3a2d0403-8537-494b-ba50-22301d6048cc)
+
+### 📱 모바일 최적화
+- 모든 디바이스에서 완벽한 반응형 디자인 지원
+- 터치 기반 인터랙션으로 모바일에서도 부드러운 사용자 경험 제공
+- 모바일 환경에 최적화된 네비게이션 및 인터랙션 지원
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b932e8d8-3162-4726-82b8-891ed4d7998c" width="22%">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/c1910b09-882f-4b60-a063-bcdb79123297" width="22%">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/54a31cc3-af7b-4ae3-b897-832e5a428227" width="22%">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/eac55020-ef97-4dee-9019-79a9873e3d8e" width="22%">
+</div>
 
 ## 기술 스택
 
