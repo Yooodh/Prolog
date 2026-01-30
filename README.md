@@ -10,7 +10,7 @@
 
 #
 
-<img width="1747" height="1042" alt="prolog_title" src="https://github.com/user-attachments/assets/a9a1f5e7-aa9f-4174-b4a4-e4a97d1d867c" />
+![prolog_title](https://github.com/user-attachments/assets/6db7b79a-246e-44b1-b775-48d29a65f2ea)
 
 
 > **Prolog - 기존 블로그 서비스의 불편함과 한계점을 해결하고자 개선된 모던 블로그 플랫폼** <br/>
